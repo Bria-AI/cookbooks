@@ -7,8 +7,7 @@ Read the full tutorial on Medium:
 
 ## Summary
 - Overview of ControlNet's layers
-- How ControlNet integrates with Stable Diffusion
+- How ControlNet integrates with the foundation model
 - The role of conditioning signals
 
-## Code Examples
-(You can include relevant code snippets here)
+
