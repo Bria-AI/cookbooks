@@ -1,15 +1,5 @@
-# ControlNet-ColorGrid
-inference for 
-https://huggingface.co/briaai/BRIA-2.3-ControlNet-ColorGrid
 
 
-show color-grid_bria 2.3.png
-
-
-
-### Model Card: Fine-tuning BRIA-2.3-ControlNet-ColorGrid
-
-#### Model Summary
 This repository contains scripts and instructions for fine-tuning the BRIA-2.3-ControlNet-ColorGrid model, designed to generate art images with fine-grained control over color grids. This model is part of Bria's generative AI solutions, intended to create artistic, visually complex images from structured input prompts and color conditioning.
 
 #### Getting Started with Inference
