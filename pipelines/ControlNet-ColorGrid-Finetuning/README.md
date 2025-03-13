@@ -65,6 +65,6 @@ To use the model, begin with an inference step:
 For uploading datasets, refer to Hugging Face documentation for step-by-step guidance on creating and uploading datasets for model training.
 
 #### Start Training
-- Use the provided script in [this example](https://github.com/huggingface/diffusers/blob/main/examples/controlnet/train_controlnet.py) to initiate model training.
+- Use the provided script in [this example](https://github.com/huggingface/diffusers/blob/main/examples/controlnet/train_controlnet_sdxl.py) to initiate model training.
 - Ensure to configure the pipeline with Bria’s preferred foundation models.
 
