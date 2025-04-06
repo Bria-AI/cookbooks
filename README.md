@@ -12,6 +12,8 @@ It provides **ready-to-use scripts**, **detailed tutorials**, and **structured p
 ## Additional Resources
 For more information on generative AI and Bria AI’s models, check out:
 - [Bria AI Official Website](https://bria.ai)
+- [Bria on HF](https://huggingface.co/briaai)
+- [Bria   Discord community](https://discord.gg/Pkbp2BmZbq)
 - [Bria API Documentation](https://docs.bria.ai)
 - [Medium Articles](https://medium.com/@efrat_37973)
 
